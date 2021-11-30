@@ -21,18 +21,35 @@ It can be implemented in low temperature regions .
 ## How
 
 This application was developed in SimulIDE using CodeBlocks. 
-## SWOT ANALYSIS
-### Strenght
+# SWOT ANALYSIS
+## Strenght
 - It is user friendly.
 - We can easily change the temperature.
 - Cost is low.
 - Installation is easy.
-### Weakness
+## Weakness
 - It is applicable for those countries which are having low temperature.
-### Opportunity
+## Opportunity
 - it can be implemented by replacing heater by Ac,so that we can use in other countries.
-### Threat
+## Threat
 - Not sutiable for high temperature places.
+## High Level Requirements
+|HLR|	Description|
+|-----------------------|------------|
+|HLR1|	Microcontroller|
+|HLR2|	Temperature Sensor|
+|HLR3|	Heat Generation|
+|HLR4|	Display|
+|HLR5|	Software used|
+|HLR_6| ATmega328|
+
+## Low Level Requirements
+|LLR|	Description|
+|-----------------------|------------|
+|LLR_1|	Thermoelectric module
+|LLR_2|  LCD and LED
+|LLR_3|	Code Blocks with AVR GCC compiler
+|LLR_4|	SimulIDE
 
 
 
