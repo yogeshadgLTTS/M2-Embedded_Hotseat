@@ -1,7 +1,5 @@
 # Introduction
+## HOTSEAT
 
-- Music visualization or music visualisation, a feature found in electronic music visualizers and media player software, generates animated imagery based on a piece of music. The imagery is usually generated and rendered in real time and in a way synchronized with the music as it is played.
+The buttons have to be switched on before the app starts working. Potentiometer acts as temperature sensor. It gives signal which is converted by ADC and used to make a PWM signal pf corresponding duty cycle, as seen in the oscilloscope. As potentiometer is varied, message containing detected temperature is shown in serial monitor.
 
-- Visualization techniques range from simple ones (e.g., a simulation of an oscilloscope display) to elaborate ones, which often include a number of composited effects. The         changes in the music's loudness and frequency spectrum are among the properties used as input to the visualization.
-
-- Effective music visualization aims to attain a high degree of visual correlation between a musical track's spectral characteristics such as frequency and amplitude and the         objects or components of the visual image being rendered and displayed.
