@@ -27,8 +27,12 @@ This application was developed in SimulIDE using CodeBlocks.
 - We can easily change the temperature.
 - Cost is low.
 - Installation is easy.
-## Weakness
+### Weakness
 - It is applicable for those countries which are having low temperature.
+### Opportunity
+- it can be implemented by replacing heater by Ac,so that we can use in other countries.
+### Threat
+- Not sutiable for high temperature places.
 
 
 
