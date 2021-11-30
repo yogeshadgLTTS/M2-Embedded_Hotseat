@@ -22,5 +22,13 @@ It can be implemented in low temperature regions .
 
 This application was developed in SimulIDE using CodeBlocks. 
 ## SWOT ANALYSIS
+### Strenght
+- It is user friendly.
+- We can easily change the temperature.
+- Cost is low.
+- Installation is easy.
+## Weakness
+- It is applicable for those countries which are having low temperature.
+
 
 
