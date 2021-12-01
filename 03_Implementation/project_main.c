@@ -4,13 +4,13 @@
 #include "user_utils.h"
 #include "blinky.h"
 
-/**
+/*
  * @brief Initialize all the Peripherals and pin configurations
- * 
  */
+
 void peripheral_init(void)
 {
-	/* Configure LED Pin */
+	// Configure LED Pin 
 	DDRB |= (1 << DDB0);
 }
 
@@ -23,7 +23,7 @@ void change_led_state(uint8_t state)
 
 int main(void)
 {
-	/* Initialize Peripherals */
+	// Initialize Peripherals 
 	peripheral_init();
 
 	for(;;)
