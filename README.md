@@ -12,11 +12,13 @@ Now-a-days everyone is looking for automation and advancements in all the sector
 # Folder Structure
 |Folder|	Description|
 |------|-------------|
-1_Requirements|	Documents detailing requirements and research
-2_Design|	Documents specifying design details
-3_Implementation|	All code and documentation
-4_TestPlanAndOutput|	Documents with test plans and procedures
-5_Simulation|	SimulIDE simulation file
-6_ImagesAndVideos|	Simulation Images and Videos
+01_Requirements|	Documents detailing requirements and research
+02_Design|	Documents specifying design details
+03_Implementation|	All code and documentation
+04_TestPlanAndOutput|	Documents with test plans and procedures
+05_Report
+06_ImagesAndVideos|	Simulation Images and Videos
+07_Simulation|	SimulIDE simulation file
+
 
 
