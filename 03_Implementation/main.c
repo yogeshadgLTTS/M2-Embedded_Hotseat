@@ -11,13 +11,13 @@ int main(void)
 	 
         if(activity1()==1) 
         {
-            /* Activity 1 Toggling Led*/ 
+            // Activity 1 Toggling Led
             led_on();
 		
-	    /* Activity_2 related to ADC value*/
+	    // Activity_2 related to ADC value
             temp=activity2();
 		
-	    /* Activity 3 Pulse Width Modulation according to its ADC value*/
+	    // Activity 3 Pulse Width Modulation according to its ADC value
             activity3(temp); 
 
 	   
