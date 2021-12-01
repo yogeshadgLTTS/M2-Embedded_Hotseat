@@ -18,7 +18,7 @@ Now-a-days everyone is looking for automation and advancements in all the sector
 04_TestPlanAndOutput|	Documents with test plans and procedures
 05_Report
 06_ImagesAndVideos|	Simulation Images and Videos
-07_Simulation|	SimulIDE simulation file
+Simulation|	SimulIDE simulation file
 
 
 
