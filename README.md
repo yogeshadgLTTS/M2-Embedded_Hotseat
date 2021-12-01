@@ -7,7 +7,7 @@ Now-a-days everyone is looking for automation and advancements in all the sector
 # CI badge
 [![CI](https://github.com/Sanu15kumar1999/M2-Embedded_Hotseat/actions/workflows/main.yml/badge.svg)](https://github.com/Sanu15kumar1999/M2-Embedded_Hotseat/actions/workflows/main.yml)
 # Code Quality Score
-https://api.codiga.io/project/30145/score/svg
+[![Code Quality Score](https://api.codiga.io/project/30145/score/svg)
 
 # Folder Structure
 |Folder|	Description|
